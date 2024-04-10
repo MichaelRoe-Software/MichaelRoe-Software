@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Michael
 #### I am a full stack Software Developer
-![I am a full stack Software Developer]()
+![I am a full stack Software Developer](https://github.com/MichaelRoe-Software/MichaelRoe-Software/blob/main/Stockdevphoto.jpg)
 
 I am a full stack software developer with dual citizenship in the UK and South Africa, I am currently based in South Africa. My technical expertise spans a broad range of technologies and programming languages, allowing me to craft innovative solutions and tackle complex problems. I am passionate about continuous learning and staying abreast of the latest industry trends.
 
