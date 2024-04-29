@@ -10,8 +10,28 @@ Skills: PHP/ MYSQL / JS / HTML / CSS
 - 🌱 I’m currently learning Node, AWS and how to be better developer every day 
 - 📫 How to reach me: By contacting me through any of the below socials 
 
+#### Socials:
+<div style="text-align: center; display: flex; justify-content: space-between; width: 100%;">
+  <a href="https://github.com/MichaelRoe-Software">
+    <img src="github.svg" alt="Github" height="40">
+  </a>
+  <a href="https://www.linkedin.com/in/michael-brian-roe">
+    <img src="linkedin.svg" alt="LinkedIn" height="40">
+  </a>
+  <a href="https://www.instagram.com/michael_roe_2020">
+    <img src="instagram.svg" alt="Instagram" height="40">
+  </a>
+  <a href="mailto:michaelroe2020@gmail.com">
+    <img src="gmail.svg" alt="Gmail" height="40">
+  </a>
+  <a href="tel:+27605139906">
+    <img src="whatsapp.svg" alt="Whatsapp" height="40">
+  </a>
+</div>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MichaelRoe-Software)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/michael-brian-roe)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/michael_roe_2020)  
+<br>
 
-My current employment github account: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Michael-SoftwareDev)
+My current employment github account: <a href="https://github.com/MichaelRoe-SoftwareDev">
+  <img src="github.svg" alt="Github" height="40">
+</a>
 
