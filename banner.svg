@@ -5,8 +5,7 @@
       <img src="Banner.png" alt="Banner Image" class="banner">
       <img src="Banner_pattern.png" alt="Banner Pattern" class="banner-pattern">
       <img src="Banner_details.png" alt="Banner Details" class="banner-details">
-    </div>
-  </foreignObject>
+    
   <style>
     /* Container styles */
     .banner-container {
@@ -51,4 +50,3 @@
       to { opacity: 1; }
     }
   </style>
-</svg>
