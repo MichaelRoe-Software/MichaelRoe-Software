@@ -21,10 +21,10 @@ Skills: PHP/ MYSQL / JS / HTML / CSS
   <a href="https://www.instagram.com/michael_roe_2020">
     <img src="instagram.svg" alt="Instagram" height="40">
   </a>
-  <a href="mailto:michaelroe2020@gmail.com">
+  <a href="https://michaelroe2020@gmail.com">
     <img src="gmail.svg" alt="Gmail" height="40">
   </a>
-  <a href="tel:+27605139906">
+  <a href="https://wa.me/qr/A4Q5L7K2Z6GXM1">
     <img src="whatsapp.svg" alt="Whatsapp" height="40">
   </a>
 </div>
