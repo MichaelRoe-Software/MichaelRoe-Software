@@ -2,17 +2,50 @@
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml" class="banner-container">
       <!-- Your images will go here -->
-      <img src="Banner.png" alt="Banner Image" style="width: 100%; height: auto; position: relative;z-index:51;">
-      <img src="Banner_pattern.png" alt="Banner Pattern" style="position: relative; top: 0; left: -100%; width: 100%; height: auto; animation: slide-in 2s ease-in-out forwards;z-index:51;">
-      <img src="Banner_details.png" alt="Banner Details" style="position: relative; top: 0; left: 0; width: 100%; height: auto; animation: fade-in 1.5s ease-in-out forwards; opacity: 0;z-index:51;">
+      <img src="Banner.png" alt="Banner Image" class="banner">
+      <img src="Banner_pattern.png" alt="Banner Pattern" class="banner-pattern">
+      <img src="Banner_details.png" alt="Banner Details" class="banner-details">
     </div>
   </foreignObject>
   <style>
-    /* Keyframe animations */
+    /* Container styles */
+    .banner-container {
+      position: relative;
+      overflow: hidden;
+    }
+
+    /* Base banner image (no animations) */
+    .banner {
+      width: 100%;
+      height: auto;
+    }
+
+    /* Pattern image (sliding in from left) */
+    .banner-pattern {
+      position: absolute;
+      top: 0;
+      left: -100%; /* Starts offscreen to the left */
+      width: 100%;
+      height: auto;
+      animation: slide-in 2s ease-in-out forwards;
+    }
+
+    /* Details image (fading in) */
+    .banner-details {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: auto;
+      animation: fade-in 1.5s ease-in-out forwards;
+      opacity: 0; /* Starts invisible */
+    }
+
     @keyframes slide-in {
       from { left: -100%; }
       to { left: 0; }
     }
+
     @keyframes fade-in {
       from { opacity: 0; }
       to { opacity: 1; }
